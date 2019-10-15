@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<kickstarter>
+	<created>Wednesday, 25-Apr-12 14:56:02 UTC</created>
+	<created_by>admin</created_by>
+	<name>ESVBibleSearch</name>
+	<prefix>bgea_</prefix>
+	<version>.5</version>
+	<author>Eric M. Roberts</author>
+	<email>eroberts@billygraham.org</email>
+	<author_uri>http://billygraham.org</author_uri>
+	<donation>http://billygraham.org</donation>
+	<contributors></contributors>
+	<tags>Bible, Scripture, ESV, God, Jesus, Christ, Salvation, Lord, Savior, Life, Eternal, Christian, Christianity, Heaven, Biblical</tags>
+	<short_description></short_description>
+	<long_description></long_description>
+	<required>3.0.4</required>
+	<tested>3.0.4</tested>
+	<php_version>5.3.1</php_version>
+	<style>default</style>
+</kickstarter>
